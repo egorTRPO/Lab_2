@@ -16,6 +16,7 @@
 - Предъявить работу преподавателю: 
     - Запущенное приложение либо в эмуляторе, либо на телефоне;
     - Удаленный репозиторий в GitHub с историей изменений (commit) `(если истории фиксации изменений не будет - это будет приравниваться к невыполнению задания)`.
+    
     Решение -
     Добавляем в пакет screen  файлы RowScreen.kt ColumnScreen.kt BoxScreen.kt SurfaceScreen.kt ScaffoldScreen.kt с в эти файлы добавляем код из задания, в RowScreen.kt - добавляем в  функцию MyRow() код из задания, в ColumnScreen.kt и BoxScreen.kt, проделываем аналогичную операцию,  открываем ScaffoldScreen.kt, изменяем MyScaffold(), обновляем подпись MyTopAppBar, изменяем MyBottomAppBar()
     
